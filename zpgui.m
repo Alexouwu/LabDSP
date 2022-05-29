@@ -5,7 +5,7 @@ function varargout = zpgui(varargin)
 % To begin, type:
 %    zpgui
  
-%   Author: Tom Krauss, 9/1/98
+%   Author: z, 9/1/98
 %   Adapted by David Dorran (2011) to force poles and zeros to be conjugate
 %   pairs (maybe not the most flexible feature but it saves me time). 
 %   Updated in 2012 to plot the z-surface.
